@@ -6,7 +6,7 @@ A self-contained, Single-file HTML app for tracking remediation findings from Mi
 
 ## ✨ Features
 
-- **Import findings** from Microsoft assessment reports (`.docx` Word files and `.xlsx` Excel files)
+- **Import findings** from Microsoft assessment reports (`.docx` Word files and `.xlsx` Excel files) from Microsoft Offline Assessment Tool
 - **Rich finding details** — paste or edit structured content with a full rich-text editor (headings, lists, tables, links, color)
 - **Remediation status tracking** — mark each finding as Done, In Progress, or Not Applicable
 - **Notes per finding** — attach rich-text notes to any finding
