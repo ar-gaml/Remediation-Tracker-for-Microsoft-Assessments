@@ -69,9 +69,9 @@ The two `.txt` files contain JavaScript bookmarklet code you can paste into your
 Click **Import Finding** in the toolbar → paste findings in the 3-line format:
 
 ```
-Finding Name
-Focus Area
-Weight
+Finding Name = Issue Name
+Focus Area = Category
+Weight = Severity
 ```
 
 Repeat for multiple findings (one blank line between each).
