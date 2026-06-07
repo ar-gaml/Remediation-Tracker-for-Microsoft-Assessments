@@ -110,4 +110,4 @@ MIT — free to use, modify, and distribute.
 
 ---
 
-_Purpose-built for Microsoft Premier customers and the Microsoft assessment and delivery teams that support them._
+_Purpose-built for Microsoft Unified Support customers and the Microsoft assessment and delivery teams that support them._
