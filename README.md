@@ -20,7 +20,7 @@ A self-contained, Single-file HTML app for tracking remediation findings from Mi
 
 ---
 
-## 🚀 Getting Started
+## ⦿ Getting Started
 
 1. **Download** `RemediationTracker-Entra ID-LabLocal.CC - 27-May-2026.html`
 2. **Open** it in any modern browser (Chrome, Edge, Firefox)
@@ -32,7 +32,7 @@ No installation. No dependencies. No server.
 
 ---
 
-## 📥 Supported Import Formats
+## ⦿ Supported Import Formats
 
 | Source | Format | Notes |
 |---|---|---|
@@ -48,7 +48,7 @@ Libraries used for parsing (loaded on demand from CDN):
 
 ---
 
-## 🗂️ Project Structure
+## ⦿ Project Structure
 
 ```
 Remediation-Tracker-for-Microsoft-Assessments_v11.7.html   ← The entire application (single file)
@@ -56,13 +56,13 @@ Copy-Assessment-Results_-_v2.txt         ← Browser bookmarklet: copy one findi
 Copy-ALL-Finding.txt                     ← Browser bookmarklet: copy all findings list from ExRaaS portal
 ```
 
-### Browser Bookmarklets
+### ⦿ Browser Bookmarklets
 
 The two `.txt` files contain JavaScript bookmarklet code you can paste into your browser's developer console (or save as bookmarks) while on the Microsoft ExRaaS assessment portal. They inject copy buttons directly into the portal UI to extract finding data.
 
 ---
 
-## 🖥️ Usage
+## ⦿ Usage
 
 ### Adding Findings Manually
 
