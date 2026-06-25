@@ -4,7 +4,7 @@ A self-contained, Single-file HTML app for tracking remediation findings from Mi
 
 ---
 
-## ✨ Features
+## ⦿ Features
 
 - **Import findings** from Microsoft assessment reports (`.docx` Word files and `.xlsx` Excel files) from Microsoft Offline Assessment Tool
 - **Rich finding details** — paste or edit structured content with a full rich-text editor (headings, lists, tables, links, color)
@@ -98,13 +98,13 @@ Repeat for multiple findings (one blank line between each).
 
 ---
 
-## 🤝 Contributing
+## ⦿ Contributing
 
 This tool is purpose-built for Microsoft assessment workflows. Bug reports and suggestions are welcome via [Issues](../../issues).
 
 ---
 
-## 📄 License
+## ⦿ License
 
 MIT — free to use, modify, and distribute.
 
