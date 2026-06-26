@@ -95,6 +95,8 @@ Repeat for multiple findings (one blank line between each).
 
 <img width="1845" height="774" alt="image" src="https://github.com/user-attachments/assets/fd5e7b93-d88d-460c-bb81-748ed9661e4a" />
 
+<img width="2030" height="967" alt="image" src="https://github.com/user-attachments/assets/702a099d-48f7-44ea-9cb6-de9c4f0e6ab7" />
+
 
 ---
 
