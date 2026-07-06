@@ -36,9 +36,9 @@ No installation. No dependencies. No server.
 
 | Source | Format | Notes |
 |---|---|---|
-| ExRaaS assessments | `.docx` | Uses `WordInsertIssuesAdvancedChunk` altChunk structure |
-| ADS / ADSDetailedFindings | `.docx` / `.xlsx` | Uses `Insert_IssueChunk` IDs |
-| ADFS / ADFSHCReporter | `.docx` | Inline XML with embedded multi-finding blocks |
+| Excel finding assessments | `.xlsx` | Uses `WordInsertIssuesAdvancedChunk` altChunk structure |
+| Detailed Findings | `.docx`  | Uses `Insert_IssueChunk` IDs |
+| Any On-Demand Assessment  | `.JSON` | Import Finding Name, Focus Area, and Weight |
 | Manual entry | Text (3-line format) | `Name / Focus Area / Weight` per finding |
 
 Libraries used for parsing (loaded on demand from CDN):
