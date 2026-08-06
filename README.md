@@ -108,7 +108,7 @@ This tool is purpose-built for Microsoft assessment workflows. Bug reports and s
 
 ## ⦿ License
 
-MIT — free to use, modify, and distribute.
+MIT — free to use and licensed under the [MIT License](https://github.com/ar-gaml/Remediation-Tracker-for-Microsoft-Assessments/blob/main/LICENSE.txt)
 
 ---
 
